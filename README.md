@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @averystraumann
 - 👀 I’m interested in ... game development
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... Java, C, & C#
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... averystraumann@icloud.com :D
 
